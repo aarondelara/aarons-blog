@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS aaron_db;
+CREATE DATABASE aaron_db;
